@@ -7,7 +7,7 @@ co-simulation을 통해 sampling된 제어 signal을 입력하여 다양한 데�
 
 ## 2. Base model construction
 
-2.1 MetaLr_model1_generation.py \n
+2.1 MetaLr_model1_generation.py  
 Deficient dataset (CDUs: 0 or 4)을 이용한 모델 생성 (model1).
 ANN 생성 및 저장 (saPred_bad.h5).
 Deficient dataset에 대한 test 결과 plotting.
